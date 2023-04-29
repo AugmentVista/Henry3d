@@ -1,0 +1,19 @@
+ Final Assignment journal: 3d character controller w/ blend tree animations. 
+
+I had made this out to be much more than it was in my head, I've been working to get over 
+the fear of trying new things and not letting it paralyze me until last minute where I have
+to learn it or die trying. While I don't feel I did great on that, it is something I am 
+trying to work on, most assignments when I am doing them are fun when I'm not stuck on something.
+Progress even little bits is a nice feeling. 
+
+I wanted a character that would stand out from the rest, if we all were choosing 
+from the same list some people might pick the same one. 
+I had found the least visually appealing model I could and tweaked the animations to look as 
+drunk as possible, I think i did a good job at that. The job was hard to get looking right.
+The problem was that he would either start the jog animation at the correct speed and then
+look as though he was sliding right before the run and vise versa. 
+I modified the animation timing on all of the others to line up and work off of the jog. 
+I am curious as to what the usage rights to mixamo is, I'd be interested in using their system 
+to rig models quickly to try with some assets I bought in the unity store to see how they would look. 
+
+Conclusion "I'm walkin here!"
